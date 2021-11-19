@@ -21,7 +21,7 @@ Install the following tools:
 * [Docs Authoring Pack](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-authoring-pack) extension for Visual Studio Code
 
 #### Install
-
+ 
 Follow the instructions provided in the [Install content authoring tools](/contribute/get-started-setup-tools) from our contributor guide.
 
 ## License
